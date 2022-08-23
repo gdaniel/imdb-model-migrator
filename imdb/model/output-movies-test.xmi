@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<movies:RootElement xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:movies="http://movies/1.0">
+  <content xsi:type="movies:Movie" persons="//@content.1" title="#" year="2012"/>
+  <content xsi:type="movies:Actor" movies="//@content.0" name="BOB"/>
+</movies:RootElement>
